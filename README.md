@@ -23,7 +23,7 @@ A streamlined Retrieval-Augmented Generation (RAG) chatbot built with Streamlit 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deepseek-rag-chatbot.git
+git clone https://github.com/Croups/rag-chatbot-deepseek
 cd deepseek-rag-chatbot
 ```
 
@@ -137,20 +137,11 @@ Common issues and solutions:
    - Reduce chunk size for large documents
    - Process smaller sections if needed
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Support
 
-For support, please open an issue in the GitHub repository or contact the maintainers.
+Feel free to contact me on linkedin : www.linkedin.com/in/enes-koşar
+
