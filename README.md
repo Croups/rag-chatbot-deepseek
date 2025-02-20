@@ -2,6 +2,10 @@
 
 A streamlined Retrieval-Augmented Generation (RAG) chatbot built with Streamlit and LangChain, using DeepSeek models through Groq's API. This application allows users to upload PDF documents and interact with them through natural language queries, featuring step-by-step reasoning and streaming responses.
 
+# DEMO 
+
+https://github.com/user-attachments/assets/c91ed6f5-521d-462a-97b4-be821761dd93
+
 ## 🌟 Features
 
 - **PDF Document Processing**: Upload and analyze PDF documents
